@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "931293276780",
+    "firebase_url": "https://unitydemo-17963.firebaseio.com",
+    "project_id": "unitydemo-17963",
+    "storage_bucket": "unitydemo-17963.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931293276780:android:3e6bb1cf13ae87668ec649",
+        "android_client_info": {
+          "package_name": "com.acme.apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931293276780-4v53rvr7dtk89n3chtuo5v8m8sb5eqig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFvK774jTBDX15vtiTfwnA8jqipbc92i0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931293276780-4v53rvr7dtk89n3chtuo5v8m8sb5eqig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
